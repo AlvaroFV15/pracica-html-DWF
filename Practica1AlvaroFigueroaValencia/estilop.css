@@ -1,0 +1,41 @@
+body{ /* para cambiar el estilo del body */
+    /*background-color: dimgrey;*/
+    background-image: url('imagenes/fondopaisaje.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.icono-redsocial {
+    width: 50px;
+    height: 50px;
+}
+
+p {
+    font-size: 20px;
+}
+
+h1{
+    color:darkcyan;
+}
+
+h2{
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.subtitulo2 {
+    color: darkorange;
+}
+
+.subtitulo3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li {
+    font-family: "arial", system-ui;
+    font-weight: 40;
+    font-style: normal;
+    font-size: 15px;
+}
+
